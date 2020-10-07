@@ -11,8 +11,3 @@ class Dog
     @breed
   end
 end
-Now, we can call #new like this:
-
-lassie = Dog.new("Collie")
- 
-lassie.breed #=> "Collie"
