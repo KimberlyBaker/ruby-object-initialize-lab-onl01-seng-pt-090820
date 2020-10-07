@@ -4,3 +4,4 @@ class Person
     @breed = breed
   end
 end
+beyonce = Person.new("Beyonce")
